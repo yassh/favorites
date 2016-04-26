@@ -1,0 +1,12 @@
+[submodule "command-line-one-liners"]
+	path = command-line-one-liners
+	url = https://github.com/arturoherrero/command-line-one-liners.git
+[submodule "html"]
+	path = html
+	url = https://github.com/w3c/html.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
+[submodule "jp.vuejs.org"]
+	path = jp.vuejs.org
+	url = https://github.com/vuejs/jp.vuejs.org.git
