@@ -10,3 +10,6 @@
 [submodule "jp.vuejs.org"]
 	path = jp.vuejs.org
 	url = https://github.com/vuejs/jp.vuejs.org.git
+[submodule "fixpack"]
+	path = fixpack
+	url = https://github.com/HenrikJoreteg/fixpack.git
