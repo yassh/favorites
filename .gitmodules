@@ -13,3 +13,6 @@
 [submodule "fixpack"]
 	path = fixpack
 	url = https://github.com/HenrikJoreteg/fixpack.git
+[submodule "marx"]
+	path = marx
+	url = https://github.com/mblode/marx.git
