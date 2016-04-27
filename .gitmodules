@@ -19,3 +19,6 @@
 [submodule "redux-jquery"]
 	path = redux-jquery
 	url = https://github.com/mkamakura/redux-jquery.git
+[submodule "top-programming-fonts"]
+	path = top-programming-fonts
+	url = https://github.com/hbin/top-programming-fonts.git
