@@ -16,3 +16,6 @@
 [submodule "marx"]
 	path = marx
 	url = https://github.com/mblode/marx.git
+[submodule "redux-jquery"]
+	path = redux-jquery
+	url = https://github.com/mkamakura/redux-jquery.git
