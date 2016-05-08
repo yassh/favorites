@@ -31,3 +31,6 @@
 [submodule "html-best-practices"]
 	path = html-best-practices
 	url = https://github.com/hail2u/html-best-practices.git
+[submodule "css-style-guide"]
+	path = css-style-guide
+	url = https://github.com/dropbox/css-style-guide.git
