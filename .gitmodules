@@ -25,3 +25,6 @@
 [submodule "github-cheat-sheet"]
 	path = github-cheat-sheet
 	url = https://github.com/tiimgreen/github-cheat-sheet.git
+[submodule "CSS-Guidelines"]
+	path = CSS-Guidelines
+	url = https://github.com/kiwanami/CSS-Guidelines.git
