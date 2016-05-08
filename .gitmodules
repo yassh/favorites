@@ -28,3 +28,6 @@
 [submodule "CSS-Guidelines"]
 	path = CSS-Guidelines
 	url = https://github.com/kiwanami/CSS-Guidelines.git
+[submodule "html-best-practices"]
+	path = html-best-practices
+	url = https://github.com/hail2u/html-best-practices.git
