@@ -34,3 +34,6 @@
 [submodule "css-style-guide"]
 	path = css-style-guide
 	url = https://github.com/dropbox/css-style-guide.git
+[submodule "idiomatic-css"]
+	path = idiomatic-css
+	url = https://github.com/necolas/idiomatic-css.git
