@@ -37,3 +37,6 @@
 [submodule "idiomatic-css"]
 	path = idiomatic-css
 	url = https://github.com/necolas/idiomatic-css.git
+[submodule "todomvc"]
+	path = todomvc
+	url = https://github.com/tastejs/todomvc.git
